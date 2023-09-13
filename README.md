@@ -1,2 +1,1 @@
-# Portfolio
-this repository has my intership project Portfolio Website
+Portfolio Website project for internship
